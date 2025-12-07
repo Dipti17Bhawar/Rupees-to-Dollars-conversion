@@ -41,3 +41,8 @@
  button:hover {
      background: #dfe9ff;
  }
+ .result {
+            margin-top: 20px;
+            font-size: 20px;
+            font-weight: bold;
+        }
